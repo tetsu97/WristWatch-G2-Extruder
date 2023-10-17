@@ -1,7 +1,9 @@
 ![Extruder](images/hlavicka.png)
 
 This is WristWatch, a standalone extruder designed by @bythorsthunder
-WWG2 is built as an alternative to WristWatch BMG etruder - but it uses Galileo 2 insides for pushing filament. Development started approximately when G2SA was being worked on, but later Thor was kind enough to allow me help him with further refinements of this extruder.
+WWG2 is built as an alternative to WristWatch BMG etruder - but it uses Galileo 2 insides for pushing filament. Development started approximately when G2SA was being worked on, but later Thor was kind enough to allow me help him with further refinements of this extruder. 
+
+Extruder uses Orbiter 2 mounting pattern. I tested it with Xol toolhead, but other toolheads should work as well as long as they support mounting pattern. Mounts for other popular toolheads are being worked on as well, so, stay tuned.
 
 Extruder is made up of 3 parts:  Main Body, Motor Plate and Tension Arm.
 
@@ -11,6 +13,7 @@ Additonal files:
 3. XOL2 Adapter: Can be used to replace Orbiter 2 adaptor plate in XOL2.5 assemblies
 
 We would like to respect Jared's ongoing work, therefore CAD files will not be released yet. They will be released once Jared publishes files for main Galileo 2 projects.
+
 All files can be shared freely but please do not post in public channels for the time being.
 
 ## BOM
