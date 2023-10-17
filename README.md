@@ -8,7 +8,7 @@ Extruder uses Orbiter 2 mounting pattern. I tested it with Xol toolhead, but oth
 Extruder is made up of 3 parts:  Main Body, Motor Plate and Tension Arm.
 
 Additonal files:
-1. Main body adapted for XOL2 adapter with front mounting.
+1. Main body adapted for XOL2 adapter with front mounting [here](STLs/XOL2/Front_Body_XOL2.stl).
 2. Modified adapter for XOL2 toolhead.
 3. Canboard mounts for umbilical
 
