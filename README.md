@@ -1,7 +1,7 @@
 ![Extruder](images/hlavicka.png)
 
 This is WristWatch, a standalone extruder designed by @bythorsthunder
-WWG2 is built as an alternative to WristWatch BMG extruder [here](https://github.com/bythorsthunder/Voron_Mods/tree/main/Wristwatch_Extruder_BMG) - but it uses Galileo 2 insides for pushing filament. Development started approximately when G2SA was being worked on, but later Thor was kind enough to allow me help him with further refinements of this extruder. 
+WWG2 is built as an alternative to [WristWatch BMG extruder](https://github.com/bythorsthunder/Voron_Mods/tree/main/Wristwatch_Extruder_BMG) - but it uses Galileo 2 insides for pushing filament. Development started approximately when G2SA was being worked on, but later Thor was kind enough to allow me help him with further refinements of this extruder. 
 
 Extruder uses Orbiter 2 mounting pattern. I tested it with Xol toolhead, but other toolheads should work as well as long as they support mounting pattern. Mounts for other popular toolheads are being worked on as well, so, stay tuned.
 
