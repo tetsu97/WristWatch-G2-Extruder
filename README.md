@@ -5,7 +5,7 @@ WWG2 is built as an alternative to [WristWatch BMG extruder](https://github.com/
 
 Extruder uses Orbiter 2 mounting pattern. I tested it with Xol toolhead, but other toolheads should work as well as long as they support mounting pattern. Mounts for other popular toolheads are being worked on as well, so, stay tuned.
 
-Extruder is made up of 3 parts:  Main Body, Motor Plate and Tension Arm.
+Extruder is made up of 3 parts:  Main Body, Rear Plate and Tension Arm.
 
 Additonal files:
 1. Main body adapted for XOL2 adapter with front mounting [here](STLs/XOL2/Front_Body_XOL2.stl).
