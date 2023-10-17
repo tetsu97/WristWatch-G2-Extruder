@@ -8,9 +8,9 @@ Extruder uses Orbiter 2 mounting pattern. I tested it with Xol toolhead, but oth
 Extruder is made up of 3 parts:  Main Body, Motor Plate and Tension Arm.
 
 Additonal files:
-1. Main Body easy for installation on existing toolheads using Orbiter 2 spacing.
-2. Rear Plate with Tail:  Additonal mounting point for use with Mini Stealthburner derived cowlings as found [here](../Mini_Stealth_Cowling) or [here](../Experimental_Dual_5015_Toolhead)
-3. XOL2 Adapter: Can be used to replace Orbiter 2 adaptor plate in XOL2.5 assemblies
+1. Main body adapted for XOL2 adapter with front mounting.
+2. Modified adapter for XOL2 toolhead.
+3. Canboard mounts for umbilical
 
 We would like to respect Jared's ongoing work, therefore CAD files will not be released yet. They will be released once Jared publishes files for main Galileo 2 projects.
 
