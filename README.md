@@ -25,3 +25,7 @@ All files can be shared freely but please do not post in public channels for the
 1 Galileo 2 Extruder Kit
 ```
 BHCS or SHCS can be used.
+
+<p align="center">
+  <img width="320" height="214" src="./images/g2gears.gif" />
+</p>
