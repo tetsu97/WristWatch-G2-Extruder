@@ -12,7 +12,7 @@ Extruder is made up of 3 parts:  Main Body, Rear Plate and Tension Arm.
 
 Additonal files:
 1. Main body adapted for XOL2 adapter with front mounting [here](STLs/XOL2/Custom_Adapter_WWG2.stl).
-2. Modified adapter for XOL2 toolhead [here](STLs/XOL2/XOL2_WWG2_adapter.stl).
+2. Modified adapter for XOL2 toolhead [here](STLs/XOL2/Custom_Adapter_WWG2.stl).
 3. Canboard mounts for umbilical
 
 We would like to respect Jared's ongoing work, therefore CAD files will not be released yet. They will be released once Jared publishes files for main Galileo 2 projects.
