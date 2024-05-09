@@ -17,8 +17,6 @@ Additonal files:
 
 We would like to respect Jared's ongoing work, therefore CAD files will not be released yet. They will be released once Jared publishes files for main Galileo 2 projects.
 
-All files can be shared freely but please do not post in public channels for the time being.
-
 ## BOM
 ```
 2 M3 Heatset Inserts
