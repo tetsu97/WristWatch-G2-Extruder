@@ -15,8 +15,6 @@ Additonal files:
 2. Modified adapter for XOL2 toolhead [here](STLs/XOL2/Custom_Adapter_WWG2.stl).
 3. Canboard mounts for umbilical
 
-We would like to respect Jared's ongoing work, therefore CAD files will not be released yet. They will be released once Jared publishes files for main Galileo 2 projects.
-
 ## BOM
 ```
 2 M3 Heatset Inserts
